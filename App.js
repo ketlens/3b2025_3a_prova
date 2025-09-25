@@ -9,6 +9,7 @@ export default function App() {
       <Text style={styles.title}>3° Bimestre</Text>
       <Text style={styles.title}>3° A</Text>
       <Text style={styles.title}>Prova</Text>
+      <Text style={styles.title}>ketlen</Text>
       <TextInput style={styles.input} value={seuNome} editable={false} />
       <StatusBar style="auto" />
     </View>
